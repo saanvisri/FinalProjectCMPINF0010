@@ -21,4 +21,4 @@ Datasets
 
 Description
 ------------
-Using datasets from the WPRDC and creating our own metrics of 'bestness', we use pandas to help determine the 'best neighborhood' in the city of Pittsburgh
+Using datasets from the WPRDC and creating our own metrics of 'bestness', we use Pandas to take in data that will help determine the 'best neighborhood' in the city of Pittsburgh
